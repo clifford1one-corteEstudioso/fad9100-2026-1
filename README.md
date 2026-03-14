@@ -1,4 +1,4 @@
-# practica-electiva-lid
+# fad-9100-2026-1
 
 practica electiva Laboratorio de Interacción Digital
 
