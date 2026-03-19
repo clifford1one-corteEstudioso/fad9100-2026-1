@@ -4,6 +4,8 @@ practica electiva Laboratorio de Interacción Digital
 
 [carpeta drive](https://drive.google.com/drive/folders/1MTTF8lllGAk3ZhJLV6gnFbEig2jZsnzF?usp=sharing)
 
+[carta gantt](https://docs.google.com/spreadsheets/d/1a7awq39lxaSTKOd2Ce-8J4YWEzdHROjXRak-v02yA7w/edit?usp=sharing)
+
 ## fad9100
 
 compañeres:

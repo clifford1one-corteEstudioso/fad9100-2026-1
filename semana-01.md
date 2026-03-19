@@ -41,4 +41,4 @@ lo primero que debemos hacer es encontrar orgnaizaciones que no den respaldo. im
 - comunicaciones: internas y externas; convocaciones
 - producción: cuantos proyectos, donde cuantos metros x proyecto, etc.
 - protocolos: charla tiempos, organizaciones, etc.
-- 
+
