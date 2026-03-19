@@ -83,14 +83,6 @@ seleccipnar proyectos para exhibirlos el dia sabado en la escuela.
 
 ## pasos para postular
 
-### First steps
-
-Introduce yourself below and tell us a few words about your PCD idea.
-
-Post a local thread as PCD @ City Name 2026 in the Community category (make sure to use the pcd tag)
-Add your event to the map: open an issue on GitHub. After a review, it will appear on the PCD map.
-
-Don’t worry if the details are not finalized yet, you can update the info for your event later via a pull request (or by asking in this thread).
 
 ### comité
 
@@ -114,12 +106,33 @@ metro,
 colectivos
 phacker
 
+### First steps
+
+Introduce yourself below and tell us a few words about your PCD idea.
+
+Post a local thread as PCD @ City Name 2026 in the Community category (make sure to use the pcd tag)
+Add your event to the map: open an issue on GitHub. After a review, it will appear on the PCD map.
+
+Don’t worry if the details are not finalized yet, you can update the info for your event later via a pull request (or by asking in this thread).
+
 #### 0. Introduce yourself
 
-Mi nombre Santiago Gaete Fernández, diseñador de soy parte del equipo organizador del PCD 2026 Chile.
 
-en celebracion de el fin del examen del primer curso de programación e interaccion usando p5, en la escula de disño udp, queremo celebrar el pcd ahciendo un evento expandido con guest spekaers guest artist, show case.
+Hi. My name is Santiago Gaete Fernández, I'm a design student at Universidad Diego Portales.
+
+With my team at the elective passanty of the Interaction Design Laboratory, we will be hosting the next Processing Community Day Chile 2026, at Escuela de Diseño of the Universidad Diego Portales.
+
+The event will consist of a expanded event, with guest speakers, projects and a call to postulate for a projects showcase. This will happen paralelly to the final exam of the first version of the first mandatory coding and interaction class of the school. Open to the chilean community of media arts and creative coding.
+
+
+
+-------------------
+
+
+En celebración de el fin del examen del primer curso de programación e interacción usando p5, en la Escuela de Diseño de la Universidad Diego Portales, queremos celebrar el Processing Day con un evento expandido, con oradores invitados, muestra de casos y proyectos en formato de concurso.
 
 Abierto a la comunidad chilena de artes mediales y creative coding.
+
+con guest spekaers guest artist, show case.
 
 ##
