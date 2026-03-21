@@ -20,6 +20,18 @@ Viernes - PM - Examen Curso Pensamiento Computacional  / FaAAD
 Sábado - AM - PCD Exposición selección de proyectos, clínicas publico general / FaAAD
 Sábado - PM - PCD Charla y entrega reconocimientos / FaAAD
 
+## coordinación con processing foundation
+
+- [Foro PCD worldwide](https://discourse.processing.org/t/pcd-worldwide-2026-call-for-organizers/48081)
+
+- [Foro PCD  @ Santiago 2026](https://discourse.processing.org/t/pcd-santiago-2026/48239)
+
+- [Issue de PCD Santiago 2026](https://github.com/processing/processing-community-day/issues/40)
+
+- [mapa eventos](https://day.processing.org)
+
+- [GitHub PCD](https://github.com/processing/processing-community-day)
+
 ### CRTIC
 
 - [CRTIC.cl](https://www.crtic.cl)
@@ -135,4 +147,3 @@ Abierto a la comunidad chilena de artes mediales y creative coding.
 
 con guest spekaers guest artist, show case.
 
-##
