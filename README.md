@@ -6,6 +6,8 @@ practica electiva Laboratorio de Interacción Digital
 
 [carta gantt](https://docs.google.com/spreadsheets/d/1a7awq39lxaSTKOd2Ce-8J4YWEzdHROjXRak-v02yA7w/edit?usp=sharing)
 
+[FORO PCD CHILE 2026](https://discourse.processing.org/t/pcd-santiago-2026/48239)
+
 ## fad9100
 
 compañeres:
