@@ -147,3 +147,43 @@ Abierto a la comunidad chilena de artes mediales y creative coding.
 
 con guest spekaers guest artist, show case.
 
+### 2026-03-27
+
+el 31 es la junta con el critic, tenemos q tener la ppt para entonces.
+
+Usar la estética de la escuela
+
+sintetizar la carta gantt
+
+diapos:
+
+1. portada, 
+2. bajada, ejemplifica. De qué estamos hablando. espírtitu del evento
+3. especificar lo que dijimo en la diapo anterior, reforzar ideas que queramos reforzar
+4a. definiciones. Posibles invitados.
+4b. 
+
+criterios para presentar:
+
+- como describimos que noq ueremos cerrarnos a pjetcos pde, pero si con su espiritu
+- cómo garantizar que el tipo de llamado no sea intimidante, pero q no lleve a q nos manden puras weas
+
+Es bueno no llegar con todo listo, para q los socios se sientan involucrados en el proyecto.
+
+mundo privado, mundo public, sociedad civil, academia, representante de la organización
+
+- Perfiles:
+
+- alguien del critic: mundo industrias
+- Aarón: LId, acamedia
+- chikomaker: sociedad civil.
+- technovation/niñasPro: mundo público. Inivtamos a niñaPro en general, y ellas deciden quien mandas.
+- academia: mónica bate(?)
+
+opciones: paula miranda(anillaMac)
+gente que trabaja en derechos digitales,
+gente q trabaja con ayseén etcheverry
+
+## REDCTAR CORREO
+
+invitacionees incluyendo su rol, su compomiso, sus tareas, etc.
