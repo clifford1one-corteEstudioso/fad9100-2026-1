@@ -160,15 +160,15 @@ diapos:
 1. portada, 
 2. bajada, ejemplifica. De qué estamos hablando. espírtitu del evento
 3. especificar lo que dijimo en la diapo anterior, reforzar ideas que queramos reforzar
-4a. definiciones. Posibles invitados.
-4b. 
+4a. definiciones. Posibles invitados
+4b.
 
 criterios para presentar:
 
-- como describimos que noq ueremos cerrarnos a pjetcos pde, pero si con su espiritu
+- como describimos que no queremos cerrarnos a pjetcos pde, pero si con su espiritu
 - cómo garantizar que el tipo de llamado no sea intimidante, pero q no lleve a q nos manden puras weas
 
-Es bueno no llegar con todo listo, para q los socios se sientan involucrados en el proyecto.
+- Es bueno no llegar con todo listo, para q los socios se sientan involucrados en el proyecto.
 
 mundo privado, mundo public, sociedad civil, academia, representante de la organización
 
