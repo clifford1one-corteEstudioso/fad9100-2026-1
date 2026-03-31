@@ -8,6 +8,8 @@ practica electiva Laboratorio de Interacción Digital
 
 [FORO PCD CHILE 2026](https://discourse.processing.org/t/pcd-santiago-2026/48239)
 
+[MANUAL MARCA FAAD](https://drive.google.com/drive/folders/13E73Bksfn9gVsTwJQdg78km-eyIa0pr1?usp=sharing)
+
 ## fad9100
 
 compañeres:
