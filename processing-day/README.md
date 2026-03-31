@@ -180,7 +180,7 @@ mundo privado, mundo public, sociedad civil, academia, representante de la organ
 - technovation/niñasPro: mundo público. Inivtamos a niñaPro en general, y ellas deciden quien mandas.
 - academia: mónica bate(?)
 
-opciones: paula miranda(anillaMac)
+opciones: paula miranda(anillaMac), claudio ruiz
 gente que trabaja en derechos digitales,
 gente q trabaja con ayseén etcheverry
 
